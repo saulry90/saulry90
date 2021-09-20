@@ -5,7 +5,7 @@
 
 - 🔭 Actualmente estoy trabajando en **disatechgo**
 
-- 🌱 Actualmente estoy aprendiendo **Javascript, React y PHP**
+- 🌱 Estoy aprendiendo **Javascript, React y PHP**
 
 - 👨‍💻 Algunos de mis proyectos disponibles los puedes encontrar en [https://www.behance.net/saulry90](https://www.behance.net/saulry90)
 
