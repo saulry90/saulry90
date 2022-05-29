@@ -3,13 +3,13 @@
 <h1 align="center">Hola 👋, mi nombre es Saúl</h1>
 <h3 align="center">Un apasionado del diseño y desarrollo web de Madrid</h3>
 
-- 🔭 Actualmente estoy trabajando en **disatechgo**
+- 🔭 Actualmente estoy trabajando en diseño digital y maquetación
 
 - 🌱 Estoy aprendiendo **Javascript, React y PHP**
 
-- 👨‍💻 Algunos de mis proyectos disponibles los puedes encontrar en [https://www.behance.net/saulry90](https://www.behance.net/saulry90)
+- 👨‍💻 Algunos de mis proyectos de diseño digital disponibles los puedes encontrar en [https://www.behance.net/saulry90](https://www.behance.net/saulry90)
 
-- 💬 Me puedes preguntar sobre **Html, Css, Bootstrap, Javascript, PHP o desarrollo web en general**
+- 💬 Podemos conversar sobre **Html, Css, Bootstrap, Javascript, PHP o desarrollo web y diseño en general**
 
 - 📫 Puedes contactar conmigo en **saulry90@gmail.com**
 
