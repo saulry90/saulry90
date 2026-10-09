@@ -1,28 +1,25 @@
 <center>
 <p align="center"><img align="center" src="https://i.ibb.co/rM8b94Y/1597424527124-e-1659571200-v-beta-t-n9-m8-Ra3-Qr-Nk5y-O7j-TOSv-RYJO4-Dr-B5-Of-O2b-Arax-VIB4.jpg" alt="saul roldan" align="center" /></p>
-<h1 align="center">Hola 👋, mi nombre es Saúl</h1>
-<h3 align="center">Un apasionado del diseño y desarrollo web de Madrid</h3>
+# Hola, soy Saúl Roldán
 
-- 🔭 Actualmente estoy trabajando en diseño digital y maquetación
+**Frontend Developer | UI e implementación de interfaces**
 
-- 🌱 Estoy aprendiendo **Javascript, React y PHP**
+Soy desarrollador Frontend con experiencia profesional en la implementación y evolución de interfaces web para proyectos CMS y e-commerce.
 
-- 👨‍💻 Algunos de mis proyectos de diseño digital disponibles los puedes encontrar en [https://www.behance.net/saulry90](https://www.behance.net/saulry90)
+Mi trabajo se centra en HTML, CSS/SCSS, diseño responsive y JavaScript para interacciones de interfaz. También trabajo con PHP y Twig en la lógica de presentación y con plataformas como WordPress y PrestaShop.
 
-- 💬 Podemos conversar sobre **Html, Css, Bootstrap, Javascript, PHP o desarrollo web y diseño en general**
+Mi trayectoria previa en diseño web y UX/UI me ayuda a conectar el diseño con la implementación, cuidando la coherencia visual y la adaptación a distintos dispositivos.
 
-- 📫 Puedes contactar conmigo en **saulry90@gmail.com**
+Actualmente estoy profundizando en JavaScript y avanzando hacia React mediante proyectos prácticos.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/saul-roldan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/saul-roldan/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/srsauly/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/srsauly/" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://dribbble.com/srsauly" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="https://dribbble.com/srsauly" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/saulry90" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="https://www.behance.net/saulry90" height="30" width="40" /></a>
-</p>
+## Tecnologías y herramientas
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+- **Frontend:** HTML5, CSS3, Sass/SCSS, JavaScript y diseño responsive.
+- **UI:** Flexbox, CSS Grid, componentes reutilizables y accesibilidad básica.
+- **CMS y plantillas:** WordPress, PrestaShop, PHP para lógica de presentación y Twig.
+- **Herramientas:** Git, GitLab, Bitbucket, npm, Gulp, Docker, Tailwind CSS y Figma.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saulry90&show_icons=true&locale=en&layout=compact" alt="saulry90" /></p>
-<center>
+## Contacto
+
+- [LinkedIn](https://www.linkedin.com/in/saul-roldan/)
+- [Email](mailto:saulry90@gmail.com)
