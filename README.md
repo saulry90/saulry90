@@ -1,8 +1,9 @@
-<center>
-<p align="center"><img align="center" src="https://i.ibb.co/rM8b94Y/1597424527124-e-1659571200-v-beta-t-n9-m8-Ra3-Qr-Nk5y-O7j-TOSv-RYJO4-Dr-B5-Of-O2b-Arax-VIB4.jpg" alt="saul roldan" align="center" /></p>
-# Hola, soy Saúl Roldán
+<p align="center">
+  <img src="https://i.ibb.co/rM8b94Y/1597424527124-e-1659571200-v-beta-t-n9-m8-Ra3-Qr-Nk5y-O7j-TOSv-RYJO4-Dr-B5-Of-O2b-Arax-VIB4.jpg" alt="Saúl Roldán">
+</p>
 
-**Frontend Developer | UI e implementación de interfaces**
+<h2 align="center">Hola 👋, soy Saúl Roldán</h2>
+<p align="center"><strong>Frontend Developer | UI e implementación de interfaces</strong></p>
 
 Soy desarrollador Frontend con experiencia profesional en la implementación y evolución de interfaces web para proyectos CMS y e-commerce.
 
